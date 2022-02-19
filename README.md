@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miguelanggelo
 - 👀 I’m interested in programming, play chess, solve puzzles, read books, sports. 
-- 🌱 I’m currently learning react-redux
+- 🌱 I’m currently learning PHP - MySQL
 - 💞️ I’m looking to collaborate on projects with technologies like: HTML, CSS, JavaScript, React, Redux, Bootstrap
 - 📫 How to reach me: 
         email: miguelangelcardenasgomez@gmail.com
